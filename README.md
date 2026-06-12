@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Rashtra 👋<br><br>🌐 Frontend Developer | ECE Student | Open Source Contributor<br><br>I'm a passionate frontend developer with a solid grip on the React ecosystem, currently expanding into full stack. I love building clean, functional web apps and working on real-world problems.<br><br>👨‍💻 About Me<br><br>🌱 Currently learning Backend — Node.js, Express.js, PostgreSQL<br>⚡ Frontend complete — React · Tailwind CSS · React Router · Axios<br>🤝 Contributor at GSSoC 2026<br>🔧 Also into Embedded Systems — ESP32, 8051, 8085/8086<br>📫 Reach me at: krashtrabhushan@email.com
+Hi there, I'm Rashtra 👋<br><br>🌐 Frontend Developer | ECE Student | Open Source Contributor<br><br>I'm a passionate frontend developer with a solid grip on the React ecosystem, currently expanding into full stack. I love building clean, functional web apps and working on real-world problems.<br><br>👨‍💻 About Me<br><br>🌱 Currently learning Backend — Node.js, Express.js, PostgreSQL<br>⚡ Frontend  — React · Tailwind CSS · React Router · Axios<br>🤝 Contributor at GSSoC 2026<br>🔧 Also into Embedded Systems — ESP32, 8051, 8085/8086<br>📫 Reach me at: krashtrabhushan@email.com
 
 
 ## 🌐 Socials:
